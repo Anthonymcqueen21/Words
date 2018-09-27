@@ -7,3 +7,4 @@ Print = Function used to generate an output.
 Argument = A piece of data that is passed into a function program.
 Integer = Declare a whole number.
 (Int) = Used to declare an integer variable.
+Float = Used to declare a floating point variable.
