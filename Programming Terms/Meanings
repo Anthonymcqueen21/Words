@@ -8,3 +8,4 @@ Argument = A piece of data that is passed into a function program.
 Integer = Declare a whole number.
 (Int) = Used to declare an integer variable.
 Float = Used to declare a floating point variable.
+Structure = User-defined data type that groups variables of other data types.
