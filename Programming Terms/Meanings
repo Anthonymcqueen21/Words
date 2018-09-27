@@ -3,3 +3,4 @@ Array = A data structure that allows a sequence of values.
 Character = A single letter or symbol
 Pointer = Stores the address of an object
 Scanf = Scans input that matches format specifiers 
+Print = Function used to generate an output.
